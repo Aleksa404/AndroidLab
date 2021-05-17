@@ -13,4 +13,5 @@
         android:id="@+id/my_places_list"
         ></ListView>
 
+
 </androidx.constraintlayout.widget.ConstraintLayout>
